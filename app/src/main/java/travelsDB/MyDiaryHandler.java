@@ -37,7 +37,9 @@ public class MyDiaryHandler extends SQLiteOpenHelper{//hereda de una clase de ay
         onCreate(db);
 
 
+
     }
+
     //Variables generales que guardan referencias a los objetos
     MyDiaryHandler ayuda;
     SQLiteDatabase db;
