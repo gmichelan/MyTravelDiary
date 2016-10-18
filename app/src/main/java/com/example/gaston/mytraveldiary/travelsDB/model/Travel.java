@@ -1,5 +1,5 @@
 package com.example.gaston.mytraveldiary.travelsDB.model;
-
+/*modelo del viaje */
 
 public class Travel {
     public String idTravel;
