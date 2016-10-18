@@ -6,9 +6,11 @@ import android.os.Build;
 import android.provider.BaseColumns;
 
 import android.database.sqlite.SQLiteOpenHelper;
-import android.provider.CalendarContract;
 
-import com.example.gaston.mytraveldiary.travelsDB.sqlite.TravelsMeta.*;
+import com.example.gaston.mytraveldiary.travelsDB.sqlite.TravelsMeta.Travel;
+import com.example.gaston.mytraveldiary.travelsDB.sqlite.TravelsMeta.Event;
+import com.example.gaston.mytraveldiary.travelsDB.sqlite.TravelsMeta.Image;
+import com.example.gaston.mytraveldiary.travelsDB.sqlite.TravelsMeta.ImageEvent;
 
 import java.lang.ref.Reference;
 

@@ -33,7 +33,7 @@ public class TravelsMeta {
         String ID_IMAGE="id_image";
     }
 
-    public static class Travel implements ColumnsTravel{
+    public static class Travels implements ColumnsTravel{
         public static String generateIdTravels(){
             return UUID.randomUUID().toString();
         }
